@@ -1,0 +1,568 @@
+# Translation of Themes - Construction Company in Ukrainian
+# This file is distributed under the same license as the Themes - Construction Company package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-30 10:57:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Themes - Construction Company\n"
+
+#. Theme Name of the theme
+msgid "Construction Company"
+msgstr "Construction Company"
+
+#. Description of the theme
+msgid "Construction Company is a child theme of Construction Landing Page which is a free WordPress theme specially designed for building and construction companies.The theme includes a lead generating contact form on the homepage and several optimally placed Call-to-Action (CTA) sections to create a high converting website.  Construction Company theme is clean, responsive (mobile-friendly), speed optimized, and SEO friendly. It includes an attractive banner with a contact form, services section, portfolio section, client section, testimonial section, social media and so on. It is WooCommerce (online shop) compatible and translation ready. Though the theme is especially created to make building and construction companies websites, it can also be used to make all kinds of websites such as web agency, portfolio, e-commerce, photography, business, corporate, restaurant, video, real estate, travel, wedding, education, business, portfolio, hotel, church, event, music, review, fitness, affiliate, lawyer, community, sports, medical, cafe, spa, teams, band, food, hair salon, jewelry, political, football, school, university, bed and breakfast, pub, resort, squeeze page, reservation and winery websites. Check the demo at https://rarathemes.com/previews/?theme=construction-company, documentation at https://docs.rarathemes.com/docs/construction-company/, and get support at https://rarathemes.com/support-ticket/."
+msgstr "Construction Company - це дочірня тема Construction Landing Page, яка є безкоштовною темою WordPress, спеціально розробленою для будівельників та будівельних компаній. Тема включає контактну форму, що генерує ліди на головній сторінці, та кілька оптимально розміщених розділів із закликом до дії (CTA) для створення. веб-сайт з високою конверсією. Тема Construction Company - це чиста, чуйна (мобільна), оптимізована швидкість та SEO. Вона включає привабливий банер з контактною формою, розділ послуг, розділ портфоліо, розділ клієнта, розділ відгуків, соціальні медіа та ін. Вона сумісна з WooCommerce (інтернет-магазин) і готова до перекладу. Хоча тема спеціально створена для створення веб-сайтів будівельних та будівельних компаній, вона також може бути використана для створення всіх видів веб-сайтів, таких як веб-агентство, портфоліо, електронна комерція, фотографія, бізнес, корпоратив, ресторан, відео, нерухомість, подорожі , весілля, освіта, бізнес, портфоліо, готель, церква, подія, музика, огляд, фітнес, філія, юрист, громада, спорт, медичний, кафе, спа, команди, гурт, їжа, перукарня, ювелірні вироби, політичні, футбол, школа, університет, ночівля та сніданок, паб, курорт, веб-сайти, бронювання та винні заводи. Перевірте демонстрацію на веб-сайті https://demo.rarathemes.com/construction-company/, документацію за адресою https://docs.rarathemes.com/docs/construction-company/ та отримайте підтримку за адресою https://rarathemes.com/support-ticket/."
+
+#: header.php:26
+msgid "Skip to content (Press Enter)"
+msgstr "Перейти до вмісту (натисніть Enter)"
+
+#: footer.php:60
+msgid "Construction Company | Developed By"
+msgstr "Construction Company | Розроблена "
+
+#: functions.php:84
+msgid "Demo and Documentation"
+msgstr "Демо та документація"
+
+#: footer.php:62
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:62
+msgid "Powered by %s."
+msgstr "Працює на %s."
+
+#: footer.php:62
+msgid "https://wordpress.org/"
+msgstr "https://uk.wordpress.org/"
+
+#: footer.php:55
+msgid "Y"
+msgstr "Y"
+
+#: footer.php:55
+msgid "&copy; Copyright "
+msgstr "&copy; Авторське право "
+
+#: functions.php:237
+msgid "Link"
+msgstr "Посилання"
+
+#: functions.php:233
+msgid "Example: fa-bell"
+msgstr "Наприклад: fa-bell"
+
+#: functions.php:232
+msgid "Font Awesome Icon"
+msgstr "Іконка шрифту Font Awesome"
+
+#: functions.php:228
+msgid "Social Links"
+msgstr "Соціальні посилання"
+
+#: functions.php:205
+msgid "Enable to show social links at header."
+msgstr "Увімкнути для показу соціальних посилань у заголовку."
+
+#: functions.php:204
+msgid "Enable Social Links"
+msgstr "Увімкнути посилання соціальних мереж"
+
+#: functions.php:179
+msgid "Email Address"
+msgstr "Адреса електронної пошти"
+
+#: functions.php:115
+msgid "Support Ticket"
+msgstr "Запит на підтримку"
+
+#: functions.php:112 functions.php:113 functions.php:114 functions.php:115
+#: functions.php:116
+msgid "Click here"
+msgstr "Натиснути тут"
+
+#: functions.php:114
+msgid "Theme info"
+msgstr "Інформація про тему"
+
+#: functions.php:113
+msgid "Theme Demo"
+msgstr "Демо Теми"
+
+#: functions.php:112
+msgid "Theme Documentation"
+msgstr "Документація теми"
+
+#: functions.php:346
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: functions.php:345
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: functions.php:344
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: functions.php:343
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: functions.php:342
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: functions.php:341
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: functions.php:340
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: functions.php:339
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: functions.php:338
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: functions.php:337
+msgid "Georgia"
+msgstr "Georgia"
+
+#: functions.php:273
+msgid "Primary font of the site."
+msgstr "Головний шрифт сайту."
+
+#: functions.php:272
+msgid "Primary Font"
+msgstr "Головний шрифт"
+
+#: functions.php:256
+msgid "Typography Settings"
+msgstr "Налаштування типографії"
+
+#: functions.php:243
+msgid "links"
+msgstr "Посилання"
+
+#: functions.php:238
+msgid "Example: http://facebook.com"
+msgstr "Наприклад: http://facebook.com"
+
+#: inc/custom-controls/typography/class-fonts.php:125
+msgctxt "font style"
+msgid "Lucida Sans Unicode, Lucida Grande"
+msgstr "Lucida Sans Unicode, Lucida Grande"
+
+#: inc/custom-controls/typography/class-fonts.php:121
+msgctxt "font style"
+msgid "Impact, Charcoal"
+msgstr "Impact, Charcoal"
+
+#: inc/custom-controls/typography/class-fonts.php:117
+msgctxt "font style"
+msgid "Comic Sans MS, cursive"
+msgstr "Comic Sans MS, cursive"
+
+#: inc/custom-controls/typography/class-fonts.php:113
+msgctxt "font style"
+msgid "Arial Black, Gadget"
+msgstr "Arial Black, Gadget"
+
+#: inc/custom-controls/typography/class-fonts.php:109
+msgctxt "font style"
+msgid "Arial, Helvetica"
+msgstr "Arial, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:105
+msgctxt "font style"
+msgid "Times New Roman, Times"
+msgstr "Times New Roman, Times"
+
+#: inc/custom-controls/typography/class-fonts.php:101
+msgctxt "font style"
+msgid "Palatino Linotype, Book Antiqua, Palatino"
+msgstr "Palatino Linotype, Book Antiqua, Palatino"
+
+#: inc/custom-controls/typography/class-fonts.php:97
+msgctxt "font style"
+msgid "Georgia"
+msgstr "Georgia"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr "HEX-код"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "Обмеження: %s рядків"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "Додати нове %s"
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr "рядок"
+
+#: functions.php:349
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: functions.php:348
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: functions.php:347
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/custom-controls/typography/class-typography-control.php:101
+#: inc/custom-controls/typography/class-fonts.php:214
+msgid "Medium 500 Italic"
+msgstr "Середній 500 курсив"
+
+#: inc/custom-controls/typography/class-typography-control.php:100
+#: inc/custom-controls/typography/class-fonts.php:213
+msgid "Medium 500"
+msgstr "Середній 500"
+
+#: inc/custom-controls/typography/class-typography-control.php:99
+#: inc/custom-controls/typography/class-fonts.php:212
+msgid "Normal 400 Italic"
+msgstr "Звичайний 400 курсив"
+
+#: inc/custom-controls/typography/class-typography-control.php:98
+#: inc/custom-controls/typography/class-fonts.php:211
+msgid "Normal 400"
+msgstr "Звичайний 400"
+
+#: inc/custom-controls/typography/class-typography-control.php:97
+#: inc/custom-controls/typography/class-fonts.php:210
+msgid "Book 300 Italic"
+msgstr "Книжковий 300 курсив"
+
+#: inc/custom-controls/typography/class-typography-control.php:96
+#: inc/custom-controls/typography/class-fonts.php:209
+msgid "Book 300"
+msgstr "Книжковий 300"
+
+#: inc/custom-controls/typography/class-typography-control.php:95
+#: inc/custom-controls/typography/class-fonts.php:208
+msgid "Light 200 Italic"
+msgstr "Легкий 200 курсив"
+
+#: inc/custom-controls/typography/class-typography-control.php:94
+#: inc/custom-controls/typography/class-fonts.php:207
+msgid "Light 200"
+msgstr "Легкий 200"
+
+#: inc/custom-controls/typography/class-typography-control.php:93
+#: inc/custom-controls/typography/class-fonts.php:206
+msgid "Ultra-Light 100 Italic"
+msgstr "Ультралегкий 100 курсив"
+
+#: inc/custom-controls/typography/class-typography-control.php:92
+#: inc/custom-controls/typography/class-fonts.php:205
+msgid "Ultra-Light 100"
+msgstr "Ультралегкий 100"
+
+#: inc/custom-controls/typography/class-fonts.php:145
+msgctxt "font style"
+msgid "Lucida Console, Monaco"
+msgstr "Lucida Console, Monaco"
+
+#: inc/custom-controls/typography/class-fonts.php:141
+msgctxt "font style"
+msgid "Courier New, Courier"
+msgstr "Courier New, Courier"
+
+#: inc/custom-controls/typography/class-fonts.php:137
+msgctxt "font style"
+msgid "Verdana, Geneva"
+msgstr "Verdana, Geneva"
+
+#: inc/custom-controls/typography/class-fonts.php:133
+msgctxt "font style"
+msgid "Trebuchet MS, Helvetica"
+msgstr "Trebuchet MS, Helvetica"
+
+#: inc/custom-controls/typography/class-fonts.php:129
+msgctxt "font style"
+msgid "Tahoma, Geneva"
+msgstr "Tahoma, Geneva"
+
+#: inc/custom-controls/typography/class-typography-control.php:52
+msgid "Greek"
+msgstr "Грецький"
+
+#: inc/custom-controls/typography/class-typography-control.php:51
+msgid "Devanagari"
+msgstr "Деванагарі"
+
+#: inc/custom-controls/typography/class-typography-control.php:50
+msgid "Cyrillic Extended"
+msgstr "Кирилиця розширена"
+
+#: inc/custom-controls/typography/class-typography-control.php:49
+msgid "Cyrillic"
+msgstr "Кирилиця"
+
+#: inc/custom-controls/typography/class-typography-control.php:48
+msgid "All"
+msgstr "Усе"
+
+#: inc/custom-controls/typography/class-typography-control.php:47
+msgid "OFF"
+msgstr "вимк."
+
+#: inc/custom-controls/typography/class-typography-control.php:46
+msgid "ON"
+msgstr "увімк."
+
+#: inc/custom-controls/typography/class-typography-control.php:109
+#: inc/custom-controls/typography/class-fonts.php:222
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ультра жирний 900 курсив"
+
+#: inc/custom-controls/typography/class-typography-control.php:108
+#: inc/custom-controls/typography/class-fonts.php:221
+msgid "Ultra-Bold 900"
+msgstr "Ультра жирний 900"
+
+#: inc/custom-controls/typography/class-typography-control.php:107
+#: inc/custom-controls/typography/class-fonts.php:220
+msgid "Extra-Bold 800 Italic"
+msgstr "Екстра жирний 800 курсив"
+
+#: inc/custom-controls/typography/class-typography-control.php:106
+#: inc/custom-controls/typography/class-fonts.php:219
+msgid "Extra-Bold 800"
+msgstr "Екстра жирний 800"
+
+#: inc/custom-controls/typography/class-typography-control.php:105
+#: inc/custom-controls/typography/class-fonts.php:218
+msgid "Bold 700 Italic"
+msgstr "Жирний 700 курсив"
+
+#: inc/custom-controls/typography/class-typography-control.php:104
+#: inc/custom-controls/typography/class-fonts.php:217
+msgid "Bold 700"
+msgstr "Жирний 700"
+
+#: inc/custom-controls/typography/class-typography-control.php:103
+#: inc/custom-controls/typography/class-fonts.php:216
+msgid "Semi-Bold 600 Italic"
+msgstr "Напівжирний 600 курсив"
+
+#: inc/custom-controls/typography/class-typography-control.php:102
+#: inc/custom-controls/typography/class-fonts.php:215
+msgid "Semi-Bold 600"
+msgstr "Напівжирний 600"
+
+#: inc/custom-controls/typography/class-typography-control.php:67
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Моноширний"
+
+#: inc/custom-controls/typography/class-typography-control.php:66
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Без зарубок"
+
+#: inc/custom-controls/typography/class-typography-control.php:65
+msgctxt "font style"
+msgid "Serif"
+msgstr "З зарубками"
+
+#: inc/custom-controls/typography/class-typography-control.php:64
+msgid "Thai"
+msgstr "Тайський"
+
+#: inc/custom-controls/typography/class-typography-control.php:63
+msgid "Telugu"
+msgstr "Телугу"
+
+#: inc/custom-controls/typography/class-typography-control.php:62
+msgid "Tamil"
+msgstr "Таміл"
+
+#: inc/custom-controls/typography/class-typography-control.php:61
+msgid "Gujarati"
+msgstr "Гуджараті"
+
+#: inc/custom-controls/typography/class-typography-control.php:60
+msgid "Bengali"
+msgstr "Бенгалі"
+
+#: inc/custom-controls/typography/class-typography-control.php:59
+msgid "Arabic"
+msgstr "Арабський"
+
+#: inc/custom-controls/typography/class-typography-control.php:58
+msgid "Hebrew"
+msgstr "Іврит"
+
+#: inc/custom-controls/typography/class-typography-control.php:57
+msgid "Vietnamese"
+msgstr "В'єтнамський"
+
+#: inc/custom-controls/typography/class-typography-control.php:56
+msgid "Latin Extended"
+msgstr "Латинська розширена"
+
+#: inc/custom-controls/typography/class-typography-control.php:55
+msgid "Latin"
+msgstr "Латинська"
+
+#: inc/custom-controls/typography/class-typography-control.php:54
+msgid "Khmer"
+msgstr "Кхмер"
+
+#: inc/custom-controls/typography/class-typography-control.php:53
+msgid "Greek Extended"
+msgstr "Грецька розширена"
+
+#: inc/custom-controls/typography/class-typography-control.php:82
+msgid "Right"
+msgstr "Праворуч"
+
+#: inc/custom-controls/typography/class-typography-control.php:81
+msgid "Left"
+msgstr "Ліворуч"
+
+#: inc/custom-controls/typography/class-typography-control.php:80
+msgid "Bottom"
+msgstr "Низ"
+
+#: inc/custom-controls/typography/class-typography-control.php:79
+msgid "Top"
+msgstr "Верх"
+
+#: inc/custom-controls/typography/class-typography-control.php:78
+msgid "Lowercase"
+msgstr "Нижній регістр"
+
+#: inc/custom-controls/typography/class-typography-control.php:77
+msgid "Uppercase"
+msgstr "Верхній регістр"
+
+#: inc/custom-controls/typography/class-typography-control.php:76
+msgid "None"
+msgstr "Немає"
+
+#: inc/custom-controls/typography/class-typography-control.php:75
+msgid "Text Transform"
+msgstr "Трансформація тексту"
+
+#: inc/custom-controls/typography/class-typography-control.php:74
+msgid "Text Align"
+msgstr "Розміщення тексту"
+
+#: inc/custom-controls/typography/class-typography-control.php:73
+msgid "Letter Spacing"
+msgstr "Відступ між літерами"
+
+#: inc/custom-controls/typography/class-typography-control.php:72
+msgid "Font Style"
+msgstr "Стиль шрифту"
+
+#: inc/custom-controls/typography/class-typography-control.php:71
+msgid "Line Height"
+msgstr "Висота рядка"
+
+#: inc/custom-controls/typography/class-typography-control.php:70
+msgid "Font Weight"
+msgstr "Товщина шрифту"
+
+#: inc/custom-controls/typography/class-typography-control.php:69
+msgid "Font Size"
+msgstr "Розмір шрифту"
+
+#: inc/custom-controls/typography/class-typography-control.php:68
+msgid "Font Family"
+msgstr "Сімейство шрифтів"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/typography-functions.php:18
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#: inc/custom-controls/typography/class-typography-control.php:110
+msgid "Invalid Value"
+msgstr "Невірне значення"
+
+#: inc/custom-controls/typography/class-typography-control.php:91
+msgid "Spacing"
+msgstr "Відступ"
+
+#: inc/custom-controls/typography/class-typography-control.php:90
+msgid "Height"
+msgstr "Висота"
+
+#: inc/custom-controls/typography/class-typography-control.php:89
+msgid "Size"
+msgstr "Розмір"
+
+#: inc/custom-controls/typography/class-typography-control.php:88
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/custom-controls/typography/class-typography-control.php:87
+msgid "Variant"
+msgstr "Варіант"
+
+#: inc/custom-controls/typography/class-typography-control.php:86
+msgid "Select a font-family"
+msgstr "Оберіть шрифт"
+
+#: inc/custom-controls/typography/class-typography-control.php:85
+msgid "Color"
+msgstr "Колір"
+
+#: inc/custom-controls/typography/class-typography-control.php:84
+msgid "Justify"
+msgstr "По ширині"
+
+#: inc/custom-controls/typography/class-typography-control.php:83
+msgid "Center"
+msgstr "Центр"
+
+#: functions.php:160
+msgid "Phone # Label"
+msgstr "Мітка телефону"
+
+#: functions.php:119
+msgid "About Construction Company"
+msgstr "Про Construction Company"
+
+#: functions.php:116
+msgid "More WordPress Themes"
+msgstr "Більше WordPress тем"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: footer.php:61
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/construction-company/"
+msgstr "https://rarathemes.com/wordpress-themes/construction-company/"

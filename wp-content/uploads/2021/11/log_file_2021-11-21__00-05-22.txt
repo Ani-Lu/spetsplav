@@ -1,0 +1,48 @@
+
+---Downloaded files---
+The import files for: Construction Company Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://spetsplav.com.ua
+Data file = /home/gh429087/spetsplav.com.ua/www/wp-content/uploads/rara-demo-pack/construction-company-demo-content/content/construction-company.xml
+Widget file = /home/gh429087/spetsplav.com.ua/www/wp-content/uploads/rara-demo-pack/construction-company-demo-content/content/construction-company.wie
+Customizer file = /home/gh429087/spetsplav.com.ua/www/wp-content/uploads/rara-demo-pack/construction-company-demo-content/content/construction-company.dat
+
+------
+Completed AJAX call number: 1
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Права бічна колонка : 
+
+Пошук - No Title - Imported
+RARA: Обраний запис - No Title - Imported
+RARA: Посилання соц. мереж - Follow Us On - Imported
+RARA: Популярні записи - Popular Posts - Imported
+RARA: Нові записи - Recent Posts - Imported
+Категорії - No Title - Imported
+Мета - No Title - Imported
+
+Бічна колонка підвалу один : 
+
+Текст - About Us - Imported
+
+Бічна колонка підвалу два : 
+
+Текст - No Title - Imported
+
+Бічна колонка підвалу три : 
+
+RARA: Посилання соц. мереж - Follow Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+
